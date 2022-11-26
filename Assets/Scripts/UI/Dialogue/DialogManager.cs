@@ -72,7 +72,8 @@ public class DialogManager : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.T) && isActive == true)
+        //«ö¥ªÁäÄ~Äò¹ï¸Ü
+        if (Input.GetMouseButtonDown(0) && isActive == true)
         {
             NextMessage();
         }
