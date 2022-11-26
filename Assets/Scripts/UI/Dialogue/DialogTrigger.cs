@@ -20,6 +20,7 @@ public class Message
     public string message;
 }
 
+
 [System.Serializable]
 public class Npc
 {
