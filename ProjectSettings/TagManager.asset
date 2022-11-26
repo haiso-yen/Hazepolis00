@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Box
+  - Bridge
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Interactive
+  - player
+  - ladder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - mapRange
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1423140043
+    locked: 0
+  - name: Stage
+    uniqueID: 1472004553
+    locked: 0
+  - name: FrontGround
+    uniqueID: 2965638483
+    locked: 0
+  - name: UI
+    uniqueID: 466388873
+    locked: 0
+  - name: 
+    uniqueID: 572483519
+    locked: 0

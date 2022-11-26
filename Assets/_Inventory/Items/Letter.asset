@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa85d611577bd4a439a079ef31469875, type: 3}
+  m_Name: Letter
+  m_EditorClassIdentifier: 
+  itemName: Letter
+  itemImage: {fileID: 21300000, guid: e7ca76ed47db2634882150edf73f89b2, type: 3}
+  itemPic: {fileID: 0}
+  itemHeld: 15
+  itemInfo: "\u4E0D\u77E5\u9053\u662F\u8AB0\u70D9\u4E0B\u7684\u4FE1\u7D19"
+  itemTag: "\u6CDB\u9EC3\u7684\u4FE1\u7D19"
+  usable: 0
